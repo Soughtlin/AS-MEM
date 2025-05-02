@@ -15,7 +15,7 @@ The official repository of our paper "**AS-Memory: Adaptive Sparse Memory Meetin
 
 You can install the conda environment by running:
 ```bash
-git clone https://github.com/boheumd/AS-MEM.git
+git clone https://github.com/Soughtlin/AS-MEM.git
 cd AS-MEM
 pip install -e .
 ```
