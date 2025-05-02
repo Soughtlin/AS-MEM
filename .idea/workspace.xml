@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4882ed5-0e7c-4b99-b16e-f237b0a53ecf" name="Changes" comment="github版本&#10;实际运行版本">
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-Songhl/lavis/models/blip2_models/atp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-Songhl/lavis/models/blip2_models/atp_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-Songhl/lavis/models/blip2_models/blip2_vicuna_instruct_apt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-Songhl/lavis/models/blip2_models/blip2_vicuna_instruct_apt_v1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-Songhl/lavis/models/blip2_models/blip2_vicuna_instruct_prompt_songhl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-Songhl/lavis/models/blip2_models/blip2_vicuna_instruct_prompt_songhl_v4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/atp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/atp_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/blip2_vicuna_instruct_atp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/dtp_commit/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/dtp_commit/blip2_vicuna_instruct_dtp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/dtp_commit/dtp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MA-LMM-main/lavis/models/blip2_models/dtp_commit/dtp_utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lavis/models/blip2_models/atp.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lavis/models/blip2_models/atp_utils.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lavis/models/blip2_models/blip2_vicuna_instruct_atp.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2rvtl3KVkOMJWwpbVctbyUVrzyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;chrono&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/song/Desktop/MA-LMM/MA-LMM-shl&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lavis/models/blip2_models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lavis/models/blip2_models/dtp(commit version)" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4882ed5-0e7c-4b99-b16e-f237b0a53ecf" name="Changes" comment="" />
+      <created>1737451523718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737451523718</updated>
+      <workItem from="1737451524833" duration="16379000" />
+      <workItem from="1737550574785" duration="599000" />
+      <workItem from="1737656900658" duration="2638000" />
+      <workItem from="1737699951916" duration="1657000" />
+      <workItem from="1737708535941" duration="637000" />
+      <workItem from="1738425714653" duration="4046000" />
+      <workItem from="1738831408175" duration="876000" />
+      <workItem from="1739092376273" duration="1566000" />
+      <workItem from="1740896938506" duration="2272000" />
+      <workItem from="1740933299298" duration="985000" />
+      <workItem from="1740935077941" duration="702000" />
+      <workItem from="1741055383734" duration="12000" />
+      <workItem from="1741085076418" duration="1547000" />
+      <workItem from="1741087290986" duration="3181000" />
+      <workItem from="1741683885116" duration="4942000" />
+      <workItem from="1741718036641" duration="106000" />
+      <workItem from="1742020595374" duration="6805000" />
+      <workItem from="1744039632811" duration="1207000" />
+      <workItem from="1744435636088" duration="1225000" />
+      <workItem from="1746109680210" duration="659000" />
+      <workItem from="1746150015212" duration="233000" />
+    </task>
+    <task id="LOCAL-00001" summary="github版本&#10;实际运行版本">
+      <option name="closed" value="true" />
+      <created>1739093117720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739093117720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atp版本（并不work）&#10;frame_step=10&#10;v0是val无atp的版本&#10;v1是val也加入atp的版本" />
+    <MESSAGE value="atp版本(并不work，未采用)&#10;frame_step=10&#10;v0是val无atp的版本&#10;v1是val也加入atp的版本" />
+    <MESSAGE value="github版本&#10;实际运行版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="github版本&#10;实际运行版本" />
+  </component>
+</project>
