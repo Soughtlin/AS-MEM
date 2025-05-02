@@ -33,7 +33,7 @@ fairscale==0.4.4
 **Before running `pip install -e .`, ensure you have the correct requirements.**
 
 ## Dataset
-For the long-term video understanding task, we conduct experiments including ([LVU](https://github.com/chaoyuaw/lvu)) and two standard video summarization datasets ([Breakfast](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/), [COIN](https://coin-dataset.github.io/)).
+For the long-term video understanding task, we conduct experiments including ([LVU](https://github.com/chaoyuaw/lvu)) and two standard video summarization datasets ([Breakfast](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/).
 
 For the video question answering task, we conduct experiments including [MSRVTT](https://github.com/xudejing/video-question-answering), [MSVD](https://github.com/xudejing/video-question-answering).
 
@@ -77,7 +77,7 @@ We use Vicuna-v1.1 as our pre-trained LLM weights, you can download from this [l
         ├── vicuna-13b
    ```
 ### Finetuning on Downstreaming Tasks
-Our model leverages pre-trained weights from [InstructBlip](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip), which was only pre-trained on image-text pairs. Our training process occurred on four A100 GPUs. If you would like to fine-tune the model for various video datasets, please run the following command:
+Our model leverages pre-trained weights from [InstructBlip](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip), which was only pre-trained on image-text pairs. Our training process occurred on four H800 GPUs. If you would like to fine-tune the model for various video datasets, please run the following command:
 ```bash
 bash run_scripts/${dataset}/train.sh
 ```
@@ -90,7 +90,6 @@ bash run_scripts/${dataset}/train.sh
 ```
 
 ### Testing
-We also provided finetuned checkpoints for each video dataset. Please download the [saved_model.tar](https://drive.google.com/file/d/1mq6fg69Ofm32-1HjEunoFtPg8ymAIcOp/view?usp=sharing) and unzip it. 
 For the test script corresponding to each dataset, provide the path to the extracted checkpoint to execute the evaluation.
 ```bash
 bash run_scripts/${dataset}/test.sh ${checkpoint_path}
